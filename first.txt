@@ -1,1 +1,1 @@
-first.txt
+Gitの練習していきます
