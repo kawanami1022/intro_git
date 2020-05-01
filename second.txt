@@ -1,0 +1,4 @@
+新規作成したファイル
+git add
+git commit
+git rm
